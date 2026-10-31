@@ -1,4 +1,7 @@
 # FMCG Whitespace OS — SOURCE OF TRUTH (Pistachio Blueprint)
+
+> **Historical reference:** This document preserves an earlier design and research blueprint. For the current implemented routes, simulated data boundaries, and reconciled arithmetic, read the [README](README.md) and [PROJECT_BLUEPRINT.md](PROJECT_BLUEPRINT.md). Some descriptions below reflect intended behavior rather than active code.
+
 **Maturity State:** Strategic Portfolio Asset / Strategy Concept Prototype  
 **Version:** 2.0 (Professional Pivot)  
 **Last Codebase Verification:** 2026-05-31  
